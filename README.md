@@ -58,3 +58,8 @@ To use sonar, you need a *.env* file in the root directory following the *.env.e
 npm run coverage
 npm run sonar
 ```
+
+
+## Inspiration
+based on that project
+- https://github.com/2018-2019-ps6/starter-waiting-list
